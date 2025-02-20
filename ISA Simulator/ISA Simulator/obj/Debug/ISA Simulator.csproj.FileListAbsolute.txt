@@ -1,0 +1,8 @@
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.exe.config
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.exe
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\bin\Debug\ISA Simulator.pdb
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\obj\Debug\ISA Simulator.csproj.AssemblyReference.cache
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\obj\Debug\ISA Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\obj\Debug\ISA Simulator.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\obj\Debug\ISA Simulator.exe
+C:\Users\mihaj\Desktop\Fakultet\ARHI projekat\ISA Simulator\ISA Simulator\obj\Debug\ISA Simulator.pdb

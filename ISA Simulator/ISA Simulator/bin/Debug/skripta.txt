@@ -1,0 +1,44 @@
+mov 0x5a, 1
+add 0x5a, 2
+out 0x5a
+
+mov 0x3, 6
+mov r2, 3h
+mov r3, [r2]
+add [r2], 1
+out 0x3
+
+mov r1, 2
+mov r2, 5
+
+smtn
+add r1, 1
+cmp r1, r2
+jl smtn
+
+mov r3, 2
+sub r1, r3
+
+mov r1, 2
+mov r2, 3
+mul r1, r2
+div r1, r2
+
+in r4
+add r4, 5
+out r4
+
+mov r1, 15
+mov r2, 7
+and r1, r2
+
+mov r1, 15
+mov r2, 7
+or r1, r2
+
+mov r1, 15
+mov r2, 7
+xor r1, r2
+
+mov r1, 5
+not r1
